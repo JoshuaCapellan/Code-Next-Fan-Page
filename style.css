@@ -1,0 +1,16 @@
+header {
+	border: 1px solid #000000;
+	background-image: url("NewYorkSky.jpg");
+	background-position: center;
+	background-size: 1000px 559px;
+
+	color: white;
+}
+
+body{
+	background-color: black;
+	color: white;
+
+	text-align: center;
+}
+
